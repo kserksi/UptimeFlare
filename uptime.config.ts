@@ -8,7 +8,7 @@ const pageConfig: PageConfig = {
     { link: 'https://cloud.kserks.org', label: 'Cloud' },
   ],
 }
-  
+
 const workerConfig: WorkerConfig = {
   monitors: [
     {
